@@ -4,6 +4,7 @@ Ghanaian Local Business Directory
 
 A web platform that allows users to find and list local businesses in Ghana. Businesses can register, get listed under relevant categories, and users can search, review, and interact with businesses.
 
+
 🚀 Tech Stack
 
 Frontend: React (Vite), Tailwind CSS
@@ -13,6 +14,7 @@ Backend: Firebase (Firestore, Authentication)
 Maps Integration: Google Maps API
 
 Hosting: Vercel / Firebase Hosting
+
 
 🎯 Features
 
@@ -30,6 +32,7 @@ Google Maps Integration
 
 (Future) Premium Listings & Ads
 
+
 🛠️ Installation Guide
 
 Clone the repository:
@@ -43,6 +46,7 @@ Create a .env file in the root directory
 Add Firebase credentials:
 
 Run the project:
+
 
 📂 Folder Structure
 
@@ -61,6 +65,7 @@ Commit changes (git commit -m 'Added new feature')
 Push to the branch (git push origin feature/new-feature)
 
 Create a Pull Request
+
 
 📜 License
 
